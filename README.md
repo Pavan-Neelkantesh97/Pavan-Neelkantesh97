@@ -1,5 +1,10 @@
 <h2 align="center">👋 Hi, I'm Pavan Neelkantesh | QA Automation Engineer Fresher</h2>
 
+🌱 **Currently Leveling Up**:  
+- 🛡️ Selenium WebDriver (Java)  
+- 🏹 API Testing with Postman  
+- ⚙️ Jenkins CI/CD Pipelines  
+
 ###
 
 <div align="center">
