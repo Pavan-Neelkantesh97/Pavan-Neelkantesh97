@@ -3,7 +3,30 @@
 🌱 **Currently Leveling Up**:  
 - 🛡️ Selenium WebDriver (Java)  
 - 🏹 API Testing with Postman  
-- ⚙️ Jenkins CI/CD Pipelines  
+- ⚙️ Jenkins CI/CD Pipelines
+
+  🌱 **Currently Leveling Up**  
+
+### **Automation & Testing**  
+![Selenium](https://progress-bar.dev/85/?title=Selenium+Java&color=43B02A)  
+![TestNG](https://progress-bar.dev/80/?title=TestNG&color=DD0031)  
+![Postman](https://progress-bar.dev/75/?title=Postman&color=FF6C37)  
+![RestAssured](https://progress-bar.dev/70/?title=RestAssured&color=007ACC)  
+![Cucumber](https://progress-bar.dev/65/?title=Cucumber+BDD&color=23D96C)  
+
+### **CI/CD & DevOps**  
+![Jenkins](https://progress-bar.dev/60/?title=Jenkins&color=D24939)  
+![Git](https://progress-bar.dev/90/?title=Git&color=F05032)  
+![GitHub Actions](https://progress-bar.dev/50/?title=GitHub+Actions&color=2088FF)  
+
+### **Programming & Databases**  
+![Java](https://progress-bar.dev/80/?title=Java&color=ED8B00)  
+![SQL](https://progress-bar.dev/75/?title=SQL&color=4479A1)  
+
+### **Tools & Practices**  
+![Jira](https://progress-bar.dev/85/?title=Jira&color=0052CC)  
+![Agile](https://progress-bar.dev/90/?title=Agile/Scrum&color=009688)  
+![POM](https://progress-bar.dev/95/?title=Page+Object+Model&color=8A2BE2)  
 
 ###
 
